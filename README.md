@@ -1,7 +1,7 @@
 # Hi, I'm Md. Mubtasim Fuad 👋
 
 🎓 I'm currently studying **CSE** at **North South University**  
-🔭 I’m currently working on [Your project / research interest]  
+🔭 I’m currently working on my last semester project on ML and DL.  
 🌱 I’m currently learning **LangChain**, **Hadoop**, **Kafka**, **Tableau**, etc.  
 🤝 I’m open to collaborating on **ML**, **AI**, and **Data Science Projects**  
 📫 Reach me at: mubtasimfuaad@gmail.com  
@@ -20,8 +20,6 @@
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-<img src="https://your-image-link.com/image.png" width="500"/>
-
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -29,4 +27,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
