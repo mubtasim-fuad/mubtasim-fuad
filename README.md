@@ -1,3 +1,4 @@
+![AI Animation](D:\datascience.gif)
 # Hi, I'm Md. Mubtasim Fuad 👋
 
 🎓 I'm currently studying **CSE** at **North South University**  
