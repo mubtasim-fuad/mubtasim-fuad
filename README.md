@@ -19,6 +19,9 @@
 
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+<img src="https://your-image-link.com/image.png" width="500"/>
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
