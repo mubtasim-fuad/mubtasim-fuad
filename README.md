@@ -10,7 +10,7 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mubtasiimfuad)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://facebook.com/mubtasiimfuad)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/mubtasiimfuad)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-lightgrey?logo=codeforces)](https://codeforces.com/profile/yourusername)
