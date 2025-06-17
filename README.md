@@ -1,18 +1,18 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Md. Mubtasim Fuad 👋
 
 🎓 I'm currently studying **CSE** at **North South University**  
 🔭 I’m currently working on [Your project / research interest]  
 🌱 I’m currently learning **LangChain**, **Hadoop**, **Kafka**, **Tableau**, etc.  
 🤝 I’m open to collaborating on **ML**, **AI**, and **Data Science Projects**  
-📫 Reach me at: [mubtasimfuaad.com]  
+📫 Reach me at: mubtasimfuaad@gmail.com  
 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mubtasiimfuaad/)
 
 ---
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://facebook.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://facebook.com/mubtasiimfuad)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/mubtasiimfuad)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-lightgrey?logo=codeforces)](https://codeforces.com/profile/yourusername)
 
 ---
