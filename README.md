@@ -15,14 +15,18 @@
 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mubtasiimfuaad/)
 
 ---
+<br>
 
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mubtasiimfuad)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://facebook.com/mubtasiimfuad)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/mubtasiimfuad)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-lightgrey?logo=codeforces)](https://codeforces.com/profile/yourusername)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdmubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdmubtasiimfuad" height="30" width="40" /></a>
+<a href="https://fb.com/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
+<a href="https://instagram.com/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
+</p>
 
----
+<br>
 
 #### 🛠️Languages and Tools:
 ## 💻 Stuff I have tried so far
