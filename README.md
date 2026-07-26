@@ -12,14 +12,14 @@
 🌱 I’m currently learning **LangChain**, **Hadoop**, **Kafka**, **Tableau**, etc.  
 🤝 I’m open to collaborating on **ML**, **AI**, and **Data Science Projects**  
 📫 Reach me at: mubtasimfuaad@gmail.com  
-📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mubtasiimfuaad/)
+📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mubtasimfuaad/)
 
 ---
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mubtasimfuaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdmubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdmubtasiimfuad" height="30" width="40" /></a>
 <a href="https://fb.com/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
 <a href="https://instagram.com/mubtasiimfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubtasiimfuad" height="30" width="40" /></a>
