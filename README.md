@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=130&section=header&text=Md%20Mubtasim%20Fuad&fontSize=40&fontAlignY=40&fontColor=ffffff" alt="Md Mubtasim Fuad header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=130&section=header&text=Md%20Mubtasim%20Fuad&fontSize=44&fontAlignY=44&fontColor=ffffff" alt="Md Mubtasim Fuad header" />
 </p>
 <h3 align="center">CSE Graduate · Full-Stack Development · Computer Vision</h3>
 
