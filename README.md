@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=130&section=header&text=Md%20Mubtasim%20Fuad&fontSize=34&fontAlignY=40&fontColor=ffffff" alt="Md Mubtasim Fuad header" />
 </p>
-<h3 align="center">CSE Graduate · Full-Stack Development · Computer Vision</h3>
+<h4 align="center">CSE Graduate · Full-Stack Development · Computer Vision</h4>
 
 <p align="center">
   I build practical web applications and computer vision projects, from clear interfaces and APIs to data models, tests, and deployment.
