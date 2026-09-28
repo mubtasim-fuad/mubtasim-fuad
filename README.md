@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubtasim-fuad&label=Profile%20views&color=0e75b6&style=flat" alt="mubtasim-fuad" /> </p>
 
-🎓 I'm currently studying **CSE** at **North South University**  
-🔭 I’m currently working on my last semester project on ML and DL.  
 🌱 I’m currently learning **LangChain**, **Hadoop**, **Kafka**, **Tableau**, etc.  
 🤝 I’m open to collaborating on **ML**, **AI**, and **Data Science Projects**  
 📫 Reach me at: mubtasimfuaad@gmail.com  
