@@ -1,0 +1,7 @@
+Total Candidates = COUNTROWS(Candidates)
+
+Total Deployed = CALCULATE(COUNTROWS(Candidates), Candidates[Status] = "Deployed")
+
+Deployment Rate = DIVIDE([Total Deployed], [Total Candidates], 0)
+
+Avg Processing Days = AVERAGE(Candidates[ProcessingDays])
